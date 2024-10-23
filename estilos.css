@@ -1,15 +1,15 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #c5b6a9;
-    color: #333;
+    background-color: #9e9084;
+    color: #264766;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
-    color: rgb(186, 227, 235);
+    background-color: #bd1616;
+    color: rgb(205, 211, 212);
     padding: 10px 0;
     text-align: center;
 }
